@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-et",
+  "description": "The most comprehensive collection of stopwords for the estonian language.",
+  "keywords": [
+    "estonian",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-et",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-et.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
